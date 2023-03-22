@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Papko.OrdersAPI", "Papko.OrdersAPI\Papko.OrdersAPI.csproj", "{BCF6DDD6-DF68-48AE-953E-DF9C7BF7C884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Papko.OrdersAPI", "Papko.OrdersAPI\Papko.OrdersAPI.csproj", "{BCF6DDD6-DF68-48AE-953E-DF9C7BF7C884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spurhiash.OrderAPI", "Spurhiash.OrderAPI\Spurhiash.OrderAPI.csproj", "{7764B867-F967-4809-9D90-D8BE1EFA53AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BCF6DDD6-DF68-48AE-953E-DF9C7BF7C884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCF6DDD6-DF68-48AE-953E-DF9C7BF7C884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCF6DDD6-DF68-48AE-953E-DF9C7BF7C884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7764B867-F967-4809-9D90-D8BE1EFA53AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7764B867-F967-4809-9D90-D8BE1EFA53AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7764B867-F967-4809-9D90-D8BE1EFA53AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7764B867-F967-4809-9D90-D8BE1EFA53AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
